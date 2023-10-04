@@ -1,0 +1,14 @@
+C:\Users\ХХХ\Documents\GitHub\t_lab3\t_lab3\bin\Debug\net6.0\t_lab3.exe
+C:\Users\ХХХ\Documents\GitHub\t_lab3\t_lab3\bin\Debug\net6.0\t_lab3.deps.json
+C:\Users\ХХХ\Documents\GitHub\t_lab3\t_lab3\bin\Debug\net6.0\t_lab3.runtimeconfig.json
+C:\Users\ХХХ\Documents\GitHub\t_lab3\t_lab3\bin\Debug\net6.0\t_lab3.dll
+C:\Users\ХХХ\Documents\GitHub\t_lab3\t_lab3\bin\Debug\net6.0\t_lab3.pdb
+C:\Users\ХХХ\Documents\GitHub\t_lab3\t_lab3\obj\Debug\net6.0\t_lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ХХХ\Documents\GitHub\t_lab3\t_lab3\obj\Debug\net6.0\t_lab3.AssemblyInfoInputs.cache
+C:\Users\ХХХ\Documents\GitHub\t_lab3\t_lab3\obj\Debug\net6.0\t_lab3.AssemblyInfo.cs
+C:\Users\ХХХ\Documents\GitHub\t_lab3\t_lab3\obj\Debug\net6.0\t_lab3.csproj.CoreCompileInputs.cache
+C:\Users\ХХХ\Documents\GitHub\t_lab3\t_lab3\obj\Debug\net6.0\t_lab3.dll
+C:\Users\ХХХ\Documents\GitHub\t_lab3\t_lab3\obj\Debug\net6.0\refint\t_lab3.dll
+C:\Users\ХХХ\Documents\GitHub\t_lab3\t_lab3\obj\Debug\net6.0\t_lab3.pdb
+C:\Users\ХХХ\Documents\GitHub\t_lab3\t_lab3\obj\Debug\net6.0\t_lab3.genruntimeconfig.cache
+C:\Users\ХХХ\Documents\GitHub\t_lab3\t_lab3\obj\Debug\net6.0\ref\t_lab3.dll
